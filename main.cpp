@@ -523,6 +523,7 @@ void BuildMaxHeap(vector<int> &arr)
 }
 /*
  *****************TIME COMPLEXITY:{O(log(n))}***************
+ -->Work : Apne niche wali saari nodes ko heap mein convert krta hai!!!!
  --> Kyuki sirf height pe depend krega!
  Approach:
  ->Jo index (0) bheja hai use largest element ka index man lia (Acc to max heap)
